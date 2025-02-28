@@ -19,15 +19,4 @@ I'm always excited to connect with fellow data enthusiasts, policymakers, and in
 
 ## 💼 Python Projects
 
-
-
-
-
-
-
-
-# Epidemic Simulator: SIR Dynamics
-
-This project implements a Python-based simulation of epidemic spread using the classic SIR (Susceptible, Infected, Recovered) model. In this simulation, individuals are arranged in a ring structure where each person interacts with two neighbors, and state transitions model the spread of infection, recovery, and the loss of immunity. Configurable parameters—including contagious duration, immunity period, and infection probability—enable exploration of various epidemic scenarios, even incorporating a vaccinated state with reduced infection risk. This simulation provides a dynamic, algorithm-driven insight into the complex interplay between biological and social factors in disease transmission.
-
-View the Epidemic Simulator Project()
+In this section, you'll find a curated collection of my Python projects that showcase my expertise in data analysis, simulation modeling, and machine learning. Each project is carefully documented to highlight efficient coding practices, innovative problem-solving, and the transformation of raw data into actionable insights. Whether it’s an interactive epidemic simulation or a data visualization dashboard, these projects reflect my commitment to leveraging Python to solve complex, real-world challenges.
