@@ -20,3 +20,4 @@ I'm always excited to connect with fellow data enthusiasts, policymakers, and in
 ## 💼 Python Projects
 
 In this section, you'll find a curated collection of my Python projects that showcase my expertise in data analysis, simulation modeling, and machine learning. Each project is carefully documented to highlight efficient coding practices, innovative problem-solving, and the transformation of raw data into actionable insights. Whether it’s an interactive epidemic simulation or a data visualization dashboard, these projects reflect my commitment to leveraging Python to solve complex, real-world challenges.
+Link to Repository : 
